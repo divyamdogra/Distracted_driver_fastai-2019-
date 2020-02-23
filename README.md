@@ -1,5 +1,5 @@
 # Distracted_driver_fastai-2019-
-This Project is done on Google Colaboratory on FAST.AI v3.
+This Project is done on Google Colaboratory and library used is Fast.AI v3.
 In this competition you are given driver images, each taken in a car with a driver doing something in the car (texting, eating, talking on the phone, makeup, reaching behind, etc). Your goal is to predict the likelihood of what the driver is doing in each picture. 
 
 
@@ -21,3 +21,4 @@ imgs.zip - zipped folder of all (train/test) images
 sample_submission.csv - a sample submission file in the correct format
 driver_imgs_list.csv - a list of training images, their subject (driver) id, and class id
 
+![driving](https://user-images.githubusercontent.com/48207530/75114397-9b9dd600-567b-11ea-854b-67189721eff1.PNG)
